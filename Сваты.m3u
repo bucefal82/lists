@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="X6162" tvg-name="Сваты hd" tvg-logo="https://ip-tv.dev/images/ico/svatu.png" tvg-rec="1" catchup_days="5" group-title="Сваты",Сваты HD
+http://pl.seetv.cc/play/6162/E5CA9AB2EDFD9F1/video.m3u8
+#EXTINF:-1 tvg-id="Xbcu-svaty" tvg-name="bcu сваты hd" tvg-logo="https://ip-tv.dev/images/ico/bcu-svaty.png" tvg-rec="1" catchup_days="5" group-title="Сваты",BCU СВАТЫ HD
+http://pl.seetv.cc/play/7127/E5CA9AB2EDFD9F1/video.m3u8
+#EXTINF:-1 tvg-id="Xcineman-svaty" tvg-name="cineman сваты" tvg-logo="https://ip-tv.dev/images/ico/cineman-svaty.png" tvg-rec="1" catchup_days="5" group-title="Сваты",CineMan Сваты
+http://pl.seetv.cc/play/13015/E5CA9AB2EDFD9F1/video.m3u8
+#EXTINF:-1 tvg-id="Xminimax-svati" tvg-name="mm сваты hd" tvg-logo="https://ip-tv.dev/images/ico/minimax-svati.png" tvg-rec="1" catchup_days="5" group-title="Сваты",MM Сваты HD
+http://pl.seetv.cc/play/6036/E5CA9AB2EDFD9F1/video.m3u8
+#EXTINF:-1 tvg-name="liberty сваты fhd" tvg-logo="http://troya.one/images/chIcons/1752.png" tvg-rec="1" catchup_days="2" group-title="Сваты",Liberty Сваты FHD
+http://3.troya.one:34000/ch1752/mono.m3u8?token=rl_jumpjet.nhTDnASwhJ8Rqc03rP8PFaRAHtDMW2otG1VIDFAm-zqHFzlneJWAFbAxKMjiDuPv
+#EXTINF:-1 tvg-rec="0" group-title="Сваты",UZ Сваты HD
+http://9d532857.amazzin.pw/iptv/PPSXXCCMQBN2L9/18166/index.m3u8
